@@ -1,0 +1,14 @@
+AI Ilim Bot: Empowering Teachers with AI Literacy
+
+1. Introduction to AI in Education
+   AI Ilim Bot helps teachers integrate AI into classrooms, focusing on Urdu, English, Dari, Persian, and Arabic. AI can create interactive quizzes, personalize lesson plans, and automate grading, saving time and engaging students.
+
+2. Lesson Planning with AI
+   Teachers can use AI to generate lesson plans tailored to student needs. For example, AI can suggest Urdu story prompts or math exercises based on curriculum standards, enhancing classroom engagement.
+
+3. AI for Student Engagement
+   AI tools like chatbots or virtual assistants can provide real-time feedback to students, answer questions in Urdu or English, and foster interactive learning environments.
+
+4. Getting Started with AI Ilim Bot
+   AI Ilim Bot offers simple tutorials in Urdu and English to help teachers use AI tools. 
+   Start with free platforms like Google Classroom integrated with AI plugins for lesson planning.
